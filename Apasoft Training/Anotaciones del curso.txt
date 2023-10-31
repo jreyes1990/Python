@@ -17,4 +17,5 @@
    - VERIFICANDO NUEVAMENTE LA VERSION DE PYTHON
      python --version
      
-
+   - VERIFICAR DONDE SE ENCUENTRA PYTHON
+     whereis python3
