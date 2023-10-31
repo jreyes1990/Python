@@ -1,0 +1,8 @@
+print('***** ESCRIBIRE MI NOMBRE *****')
+print("Jolbert Alberto")
+print('***** ESCRIBIRE MI APELLIDOS *****')
+print("Reyes Lopez")
+print('***** ESCRIBIRE MIS NOMBRE Y APELLIDOS *****')
+print("Jolberth Alberto"+" "+"Reyes Lopez")
+print('***** AHORA, VOY A AVERIGUAR LOS ANIOS QUE TENGO *****')
+print(2023-1975)
