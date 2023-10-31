@@ -1,0 +1,20 @@
+/********************************************************************************************************************************************/
+/********** SECCION 2 - INSTALACION DE PYTHON Y PYCHARM **********/
+-- COMO INSTALAR PYTHON
+   ENLACE: https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/instalar-python/
+   - ACTUALIZAR PAQUETES
+     sudo apt-get update
+     
+   - INSTALACION DE PYTHON
+     sudo apt-get install python3
+     
+   - VERIFICANDO LA VERSION DE PYTHON
+     python3 --version
+     
+   - PARA CAMBIAR EL NOMBRE AL MOMENTO DE VERIFICAR LA VERSION DE PYTHON
+     alias python=python3
+     
+   - VERIFICANDO NUEVAMENTE LA VERSION DE PYTHON
+     python --version
+     
+
